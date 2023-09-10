@@ -10,7 +10,7 @@
     "processor": "RP2040",
     "bootloader": "rp2040",
     "layouts": {
-        "LAYOUT_36": {
+        "LAYOUT_split_3x5_3": {
             "layout": [
                 { "label": "L00", "x": 0, "y": 0 },
                 { "label": "L01", "x": 1, "y": 0 },
