@@ -8,7 +8,7 @@
     },
     "manufacturer":"mrzealot",
     "processor": "RP2040",
-    "bootloader": "caterina",
+    "bootloader": "rp2040",
     "layouts": {
         "LAYOUT_36": {
             "layout": [
