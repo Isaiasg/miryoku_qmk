@@ -40,3 +40,5 @@
   #define RGBLIGHT_LIMIT_VAL 255 
   #define RGBLIGHT_SLEEP  /* If defined, the RGB lighting will be switched off when the host goes to sleep */
 #endif
+
+#define RP2040_FLASH_GENERIC_03H
