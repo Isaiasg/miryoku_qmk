@@ -17,19 +17,13 @@
 // Untested, implement your own keymap
 #include QMK_KEYBOARD_H
 
-#define SFT_Z LSFT_T(KC_Z)
-#define SFT_FSL RSFT_T(KC_SLSH)
-
-#define UNLOCK LCA(KC_DEL)
-#define LOCK   RGUI(KC_L)
-#define CTL_S  RCTL(KC_RSFT) // used with arrow keys for word highlight
-#define G_SHFT RGUI(KC_RSFT) // plus arrow to switch window to other screen
-
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
+   /*
     [0] = LAYOUT_36(
         KC_Q,   KC_W,   KC_E,   KC_R,   KC_T,           KC_Y,   KC_U,   KC_I,   KC_O,   KC_P,
         KC_A,   KC_S,   KC_D,   KC_F,   KC_G,           KC_H,   KC_J,   KC_K,   KC_L,   KC_SCLN,
         SFT_Z,  KC_X,   KC_C,   KC_V,   KC_B,           KC_N,   KC_M,   KC_COMM,KC_DOT, SFT_FSL,
                         KC_BSPC,MO(2),  KC_LCTL,        KC_RSFT,KC_ENT, KC_SPC
     )
+   */
 };
