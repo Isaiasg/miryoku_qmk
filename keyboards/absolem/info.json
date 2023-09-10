@@ -4,7 +4,7 @@
     "usb": {
         "pid": "0x8577",
         "vid":"0x1777",
-        "device_version":"0x0001"
+        "device_version":"0.0.1"
     },
     "manufacturer":"mrzealot",
     "processor": "RP2040",
