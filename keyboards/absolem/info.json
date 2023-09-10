@@ -3,7 +3,6 @@
     "usb": {
         "pid": "0x8577"
     },
-    "community_layouts": ["unibody_36"],
     "layouts": {
         "LAYOUT_36": {
             "layout": [
