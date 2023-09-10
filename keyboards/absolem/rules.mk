@@ -10,3 +10,4 @@ NKRO_ENABLE = yes            # Enable N-Key Rollover
 RGBLIGHT_ENABLE = no        # Enable keyboard RGB underglow
 AUDIO_ENABLE = no           # Audio output
 LTO_ENABLE = yes
+CONVERT_TO = rp2040_ce
