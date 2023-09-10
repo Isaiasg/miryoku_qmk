@@ -48,5 +48,4 @@
   #define RGBLIGHT_VAL_STEP 16
   #define RGBLIGHT_LIMIT_VAL 255 
   #define RGBLIGHT_SLEEP  /* If defined, the RGB lighting will be switched off when the host goes to sleep */
-  #define RGBLIGHT_ANIMATIONS
 #endif
