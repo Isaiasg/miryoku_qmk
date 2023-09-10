@@ -2,8 +2,11 @@
     "url": "",
     "keyboard_name": "absolem splinky",
     "usb": {
-        "pid": "0x8577"
+        "pid": "0x8577",
+        "vid":"0x1777",
+        "device_version":"0x0001"
     },
+    "manufacturer":"mrzealot",
     "processor":"RP2040",
     "bootloader":"rp2040",
     "layouts": {
