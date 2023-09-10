@@ -1,8 +1,11 @@
 {
     "url": "",
+    "keyboard_name": "Skeleto",
     "usb": {
         "pid": "0x8577"
     },
+    "processor":"RP2040",
+    "bootloader":"rp2040",
     "layouts": {
         "LAYOUT_36": {
             "layout": [
