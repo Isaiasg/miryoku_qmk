@@ -34,3 +34,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MATRIX_COL_PINS \
     { B4, E6, D7, C6, D4, B5, F4, F5, F6, F7, B1, B3 }
 #endif
+
+/* COL2ROW or ROW2COL */
+#define DIODE_DIRECTION COL2ROW
+
+/* Set 0 if debouncing isn't needed */
+#define DEBOUNCE 5  /* 5 is default */
+
+#define RP2040_FLASH_GENERIC_03H
